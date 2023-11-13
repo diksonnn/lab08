@@ -1,0 +1,8 @@
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\bin\Debug\Taxi.exe
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\bin\Debug\Taxi.pdb
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\obj\Debug\Taxi.csproj.AssemblyReference.cache
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\obj\Debug\Taxi.csproj.SuggestedBindingRedirects.cache
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\obj\Debug\Taxi.exe
+C:\Users\denyx\OneDrive\Desktop\Test\Taxi\obj\Debug\Taxi.pdb
